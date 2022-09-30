@@ -34,3 +34,4 @@ spec:
       destination:
         server: '{{server}}'
         namespace: '{{path.basename}}'
+
